@@ -20,7 +20,7 @@ const About = () => {
         <br />
         <div className={styles["buttonContainer"]}>
           <button className={styles["button"]}>
-            <a href="/files/Devansh Sharma- 7275521764-18.pdf" className={styles.link} download="Devansh Sharma-7275521764">
+            <a href="/files/Devansh Sharma-7275521764-20.pdf" className={styles.link} download="Devansh Sharma-7275521764">
               Resume
             </a>
           </button>
